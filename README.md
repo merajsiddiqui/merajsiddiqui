@@ -22,7 +22,7 @@ I am a senior software engineer with over 8 years of experience specializing in 
 
 ## 📈 GitHub Stats
 
-![Meraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=merajsidiqui&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide=prs,issues,contribs&custom_title=Your%20GitHub%20Stats&hide_border=true&line_height=24)
+![Meraj Ahmad Siddiqui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=merajsidiqui&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide=prs,issues,contribs&hide_border=true&line_height=24)
 
 
 ## 🌐 Connect with Me
