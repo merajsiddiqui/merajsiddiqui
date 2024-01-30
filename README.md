@@ -21,9 +21,9 @@ I am a senior software engineer with over 8 years of experience specializing in 
 - **Cloud Stack:** AWS, GCP
 
 ## 📈 GitHub Stats
-
-![Meraj Ahmad Siddiqui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=merajsiddiqui&show_icons=true&theme=dark&count_private=true)
-
+![Meraj Ahmad Siddiqui's Stats](https://github-readme-stats.vercel.app/api?username=merajsiddiqui&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Meraj Ahmad Siddiqui's Streak](https://github-readme-streak-stats.herokuapp.com/?user=merajsiddiqui&theme=vue-dark&hide_border=true)
+![merajsiddiqui's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merajsiddiqui&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 🌐 Connect with Me
 
