@@ -36,13 +36,22 @@ I am a senior software engineer with over 8 years of experience specializing in 
 
 ## 🎓 Education
 
-- **MBA in IT Management**
-  - *Jaipur National University*
-  - *2020*
+<div align="center">
+  <!-- MBA -->
+  <div style="margin-right: 30px;">
+    <h3>MBA in IT Management</h3>
+    <p>Your University Name</p>
+    <p>Year of Completion</p>
+  </div>
 
-- **Bachelor of Technology in Computer Science**
-  - *Guru Govind Singh Indraprastha University*
-  - *2016*
+  <!-- Bachelor of Technology -->
+  <div>
+    <h3>Bachelor of Technology in Computer Science</h3>
+    <p>Your University Name</p>
+    <p>Year of Completion</p>
+  </div>
+</div>
+
 
 ## 📜 Certifications
 
