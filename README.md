@@ -61,7 +61,6 @@ I am a senior software engineer with over 8 years of experience specializing in 
 ![Meraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=merajsiddiqui&bg_color=000000&color=ffff98&line=12ba63&point=403d3d&area=true&hide_border=true)
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=merajsiddiqui&theme=vue-dark&hide_border=true" alt="GitHub Streak" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merajsiddiqui&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="400"/>
 </div>
 
 ## 🌐 Connect with Me
