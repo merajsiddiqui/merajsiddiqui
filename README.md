@@ -38,17 +38,17 @@ I am a senior software engineer with over 8 years of experience specializing in 
 
 <div align="center">
   <!-- MBA -->
-  <div style="margin-right: 30px;">
+  <div style="display: inline-block; text-align: left; margin-right: 30px;">
     <h3>MBA in IT Management</h3>
-    <p>Your University Name</p>
-    <p>Year of Completion</p>
+    <p>Jaipur National University</p>
+    <p>Year of Completion: 2020</p>
   </div>
 
   <!-- Bachelor of Technology -->
-  <div>
+  <div style="display: inline-block; text-align: left;">
     <h3>Bachelor of Technology in Computer Science</h3>
-    <p>Your University Name</p>
-    <p>Year of Completion</p>
+    <p>Guru Govind Singh Indraprastha University</p>
+    <p>Year of Completion: 2016</p>
   </div>
 </div>
 
