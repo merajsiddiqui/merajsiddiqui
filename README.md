@@ -22,9 +22,9 @@ I am a senior software engineer with over 8 years of experience specializing in 
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merajsiddiqui&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="300"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merajsiddiqui&theme=vue-dark&hide_border=true" alt="GitHub Streak" width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merajsiddiqui&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=merajsiddiqui&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="300" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merajsiddiqui&theme=vue-dark&hide_border=true" alt="GitHub Streak" width="300" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merajsiddiqui&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="300" height="200"/>
 </div>
 
 
