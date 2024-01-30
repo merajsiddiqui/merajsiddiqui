@@ -1,3 +1,6 @@
+## 👨‍💻 About Me
+
+<!-- Your Introduction and Additional Sections Go Here -->
 # Hello, I'm Meraj Ahmad Siddiqui
 
 ## 👨‍💻 About Me
@@ -14,6 +17,22 @@ I am a senior software engineer with over 8 years of experience specializing in 
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
 - ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat-square)
 
+## 🎓 Education
+
+- **MBA in IT Management**
+  - *Jaipur National University*
+  - *2020*
+
+- **Bachelor of Technology in Computer Science**
+  - *Guru Govind Singh Indraprastha University*
+  - *2016*
+
+## 📜 Certifications
+
+- **Certification in Cyber Security**
+  - *Devry University, USA*
+  - *2015n*
+
 ## 🛠️ Expertise
 
 - **Languages:** PHP, Node.js, Python, Golang, TypeScript
@@ -21,18 +40,19 @@ I am a senior software engineer with over 8 years of experience specializing in 
 - **Cloud Stack:** AWS, GCP
 
 ## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merajsiddiqui&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="300" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merajsiddiqui&theme=vue-dark&hide_border=true" alt="GitHub Streak" width="300" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merajsiddiqui&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="300" height="200"/>
-</div>
 
+<!-- GitHub Stats Cards -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=merajsiddiqui&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merajsiddiqui&theme=vue-dark&hide_border=true" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merajsiddiqui&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="400"/>
+</div>
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/merajsiddiqui)
+- [LinkedIn](https://www.linkedin.com/in/merajahmadsiddiqui)
 - [Twitter](https://twitter.com/merajsiddiqui)
-- [Website](https://merajsiddiqui.com)
+- [Website](https://appcarry.com)
 
 ## 📝 Contact Me
 
