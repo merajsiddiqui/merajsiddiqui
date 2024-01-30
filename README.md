@@ -1,7 +1,4 @@
-## 👨‍💻 About Me
-
-<!-- Your Introduction and Additional Sections Go Here -->
-# Hello, I'm Meraj Ahmad Siddiqui
+## Hello, I'm Meraj Ahmad Siddiqui
 
 ## 👨‍💻 About Me
 
