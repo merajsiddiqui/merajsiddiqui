@@ -42,8 +42,6 @@ I am a senior software engineer with over 8 years of experience specializing in 
 |----------------------------------|------------------------------------------------|--------------------|
 | MBA in IT Management             | Jaipur National University                     | 2020               |
 | Bachelor of Technology (Computer Science) | Guru Govind Singh Indraprastha University | 2016               |
-|----------------------------------|------------------------------------------------|--------------------|
-
 
 ## 📜 Certifications
 
