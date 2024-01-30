@@ -1,7 +1,5 @@
 ## Hello, I'm Meraj Ahmad Siddiqui
 
-## 👨‍💻 About Me
-
 I am a senior software engineer with over 8 years of experience specializing in system design, API development, and database design. I am a polyglot developer with a master level command in PHP, Node.js, and Python. I also have proficiency in Golang and several other programming languages.
 
 ## 🚀 Technical Stack
